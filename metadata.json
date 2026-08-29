@@ -1,0 +1,6 @@
+{
+  "name": "أثر - ATHOR",
+  "description": "تطبيق أثر للكبسولات الزمنية والذكريات الجغرافية والقصص الصوتية بتصميم iOS راقٍ وسريع التجاوب",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
